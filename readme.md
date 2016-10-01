@@ -5,4 +5,4 @@
 
 ## ライセンス
 
-[MITライセンス」](https://opensource.org/licenses/MIT)
+[MITライセンス](https://opensource.org/licenses/MIT)
